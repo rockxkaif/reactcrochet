@@ -1,0 +1,19 @@
+
+.fa {
+    padding: 5px;
+    font-size: 42px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-instagram {
+    text-decoration: none;
+    color: white;
+}
+.containers {
+     background-image: url('https://source.unsplash.com/1600x900/?comment/dark/social/media/phone');
+}
+.rating {
+    color: #43b3d9;
+  }
